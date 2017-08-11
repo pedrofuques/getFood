@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">getFood</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_home">Mains</string>
+    <string name="title_dashboard">Drinks</string>
+    <string name="title_notifications">Desserts</string>
+</resources>
